@@ -9,6 +9,12 @@
 import math
 import random
 
+def integer_value(b, n, d_list):
+	v = 0
+	for i in range(n-1, -1, -1):
+		v = v*b + d_list[i]
+	return v
+
 def addition(b, n, X, Y):
 	c = 0
 	Z = []
@@ -18,7 +24,9 @@ def addition(b, n, X, Y):
 		c = math.floor(s/b)
 	if c != 0:
 		Z.append(c)
-	return Z
+		i += 1
+	i += 1
+	return Z, i
 
 if __name__ == "__main__":
 # A test case
@@ -26,8 +34,8 @@ if __name__ == "__main__":
 	n = 30
 	X = [random.randrange(0, 10) for i in range(0, n)]
 	Y = [random.randrange(0, 10) for i in range(0, n)]
-	print "X: ", X
-	print "Y: ", Y
-	Z = addition(b, n, X, Y)
-	print "Z: ", Z
+	print "X: ", integer_value(b, n, X)
+	print "Y: ", integer_value(b, n, Y)
+	Z, Z_length = addition(b, n, X, Y)
+	print "Z: ", integer_value(b, Z_length, Z)
 
