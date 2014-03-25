@@ -14,6 +14,6 @@ Chapter 1
 1.7 [Matrix Addition](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.7.py)
 
 
-Dependecies
------------
+Dependencies
+------------
 Some packages are imported to my codes. Before running them, make sure [Numpy](http://www.numpy.org/) is installed on your machine. 
