@@ -5,11 +5,11 @@ This repository contains all algorithms on the book "[The Analysis of Algorithms
 
 Chapter 1
 ---------
-1.1 Horner's Method    
-1.2 Integer Value(while loop)    
-1.3 Integer Value(for loop)    
-1.4 Addition    
-1.5 Euclidean    
-1.6 Binary Search     
+1.1 [Horner's Method](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.1.py)    
+1.2 [Integer Value(while loop)](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.2.py)    
+1.3 [Integer Value(for loop)](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.3.py)    
+1.4 [Addition](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.4.py)    
+1.5 [Euclidean](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.5.py)    
+1.6 [Binary Search](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.6.py)     
 
 	
