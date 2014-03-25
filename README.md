@@ -12,6 +12,7 @@ Chapter 1
 1.5 [Euclidean](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.5.py)    
 1.6 [Binary Search](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.6.py)     
 1.7 [Matrix Addition](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.7.py)
+1.8 [Multiplication](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.8.py)
 
 
 Dependencies
