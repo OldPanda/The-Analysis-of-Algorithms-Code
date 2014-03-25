@@ -1,7 +1,7 @@
 The-Analysis-of-Algorithms-Code
 ===============================
 
-All the algorithms mentioned in book "The Analysis of Algorithms" are implemented in Python here. I wish I can finish it. 
+This repository contains all algorithms on the book "[The Analysis of Algorithms](http://book.douban.com/subject/11743170/)"(I'll try my best to finish it). Programs are written in Python and they are mainly based on the algorithm process, so I don't do much optimization using Python features. 
 
 Chapter 1
 ---------
