@@ -18,4 +18,4 @@ Chapter 1
 
 Dependencies
 ------------
-Some packages are imported to my codes. Before running them, make sure [Numpy](http://www.numpy.org/) is installed on your machine. 
+Some packages are imported to my codes. Before running them, make sure [Numpy](http://www.numpy.org/) has been installed on your machine. 
