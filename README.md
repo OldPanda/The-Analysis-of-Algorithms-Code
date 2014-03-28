@@ -15,6 +15,7 @@ Chapter 1
 1.8 [Multiplication](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.8.py)     
 1.9 [Matrix Multiplication](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.9.py)    
 1.10 [Shortest Path](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.10.py)     
+1.11 [Triangular Matrix Addition](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.11.py)      
 
 
 Dependencies
