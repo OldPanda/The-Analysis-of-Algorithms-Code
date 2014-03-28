@@ -6,6 +6,7 @@
 
 import random
 
+# This function comes from 1.3.py
 def integer_value(b, n, d_list):
 	v = 0
 	for i in range(n-1, -1, -1):
