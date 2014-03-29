@@ -5,6 +5,7 @@ This repository contains all algorithms on the book "[The Analysis of Algorithms
 
 Chapter 1
 ---------
+
 1.1 [Horner's Method](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.1.py)    
 1.2 [Integer Value(while loop)](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.2.py)    
 1.3 [Integer Value(for loop)](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.3.py)    
@@ -19,6 +20,10 @@ Chapter 1
 1.12 [Insertion Sort](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.12.py)      
 1.13 [Binary Merge](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.13.py)      
 
+Chapter 2
+---------
+
+2.1 [Linear Search](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_2/2.1.py)       
 
 Dependencies
 ------------
