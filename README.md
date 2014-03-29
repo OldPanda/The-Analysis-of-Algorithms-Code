@@ -17,6 +17,7 @@ Chapter 1
 1.10 [Shortest Path](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.10.py)     
 1.11 [Triangular Matrix Addition](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.11.py)      
 1.12 [Insertion Sort](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.12.py)      
+1.13 [Binary Merge](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_1/1.13.py)      
 
 
 Dependencies
