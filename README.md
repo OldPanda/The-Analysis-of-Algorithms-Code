@@ -23,7 +23,8 @@ Chapter 1
 Chapter 2
 ---------
 
-2.1 [Linear Search](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_2/2.1.py)       
+2.1 [Linear Search](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_2/2.1.py)      
+2.2 & 2.3 [Quicksort & Split](https://github.com/OldPanda/The-Analysis-of-Algorithms-Code/blob/master/Chapter_2/2.2.py)      
 
 Dependencies
 ------------
